@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VisLib_win", "VisLib_win\VisLib_win.vcxproj", "{418F7561-D110-4AE3-8F99-BE17699214D2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sdl_srv_jpeg_decode", "sdl_jpeg_srv\sdl_test.vcxproj", "{2251BDBC-FFD1-4809-9A98-AB2407A28D20}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "simple_example", "simple_example\simple_example.vcxproj", "{47464FD3-D50D-4F6D-ADA6-60C2E516764D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{418F7561-D110-4AE3-8F99-BE17699214D2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{418F7561-D110-4AE3-8F99-BE17699214D2}.Debug|Win32.Build.0 = Debug|Win32
+		{418F7561-D110-4AE3-8F99-BE17699214D2}.Release|Win32.ActiveCfg = Release|Win32
+		{418F7561-D110-4AE3-8F99-BE17699214D2}.Release|Win32.Build.0 = Release|Win32
+		{2251BDBC-FFD1-4809-9A98-AB2407A28D20}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2251BDBC-FFD1-4809-9A98-AB2407A28D20}.Debug|Win32.Build.0 = Debug|Win32
+		{2251BDBC-FFD1-4809-9A98-AB2407A28D20}.Release|Win32.ActiveCfg = Release|Win32
+		{2251BDBC-FFD1-4809-9A98-AB2407A28D20}.Release|Win32.Build.0 = Release|Win32
+		{47464FD3-D50D-4F6D-ADA6-60C2E516764D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{47464FD3-D50D-4F6D-ADA6-60C2E516764D}.Debug|Win32.Build.0 = Debug|Win32
+		{47464FD3-D50D-4F6D-ADA6-60C2E516764D}.Release|Win32.ActiveCfg = Release|Win32
+		{47464FD3-D50D-4F6D-ADA6-60C2E516764D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
